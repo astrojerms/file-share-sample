@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77300a0f-d3e6-4a93-8d1e-9a589a946cf3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/models/user_test.rb" afterPath="$PROJECT_DIR$/test/models/user_test.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -183,11 +181,6 @@
             <path>
               <item name="file-share-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="file-share-sample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="file-share-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="file-share-sample" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -534,7 +527,7 @@
       <workItem from="1500333070204" duration="2776000" />
       <workItem from="1500509483766" duration="264000" />
       <workItem from="1500509813321" duration="8848000" />
-      <workItem from="1500772906052" duration="14317000" />
+      <workItem from="1500772906052" duration="14409000" />
     </task>
     <task id="LOCAL-00001" summary="Add user model">
       <created>1500781885563</created>
@@ -593,7 +586,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26555000" />
+    <option name="totallyTimeSpent" value="26647000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="1440" height="803" extended-state="0" />
